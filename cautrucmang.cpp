@@ -8,5 +8,6 @@ int main()
 	for(i=0;i<=n;i++)
 	s+=i;// s=s+i
 	tb=s/n;
-	printf("Gia tri bieu thuc là :%f",tb);
+	printf("Gia tri bieu thuc lÃ  :%f",tb);
+	return 0;
 	}
