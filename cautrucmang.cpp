@@ -10,5 +10,5 @@ int main()
 	s+=i;// s=s+i
 	tb=s/n;
 	printf("Gia tri bieu thuc l� :%f",tb);
-	return 0;
+	
 	}
